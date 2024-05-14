@@ -17,4 +17,7 @@ In this project, a dedicated website was developed to offer a protein catalog fo
 - Additional Functionality: Additional functionality can be included, such as the option to filter products by type, brand or price, as well as the ability to perform specific searches within the protein catalog.
 
   ![image](https://github.com/PabloJp304/Proteinas-web/assets/78864967/ad7c747d-e8cb-4436-8f62-cd42d38f8314)
+  ![image](https://github.com/PabloJp304/Proteinas-web/assets/78864967/98a9be45-9742-4247-94e1-11d9a0a67090)
+  ![image](https://github.com/PabloJp304/Proteinas-web/assets/78864967/9504e452-0265-496e-adff-f849bed10221)
+
 
