@@ -15,3 +15,6 @@ In this project, a dedicated website was developed to offer a protein catalog fo
 - Security and Privacy: Security measures are implemented to protect user information, such as encryption of sensitive data and protection against known security vulnerabilities.
 
 - Additional Functionality: Additional functionality can be included, such as the option to filter products by type, brand or price, as well as the ability to perform specific searches within the protein catalog.
+
+  ![image](https://github.com/PabloJp304/Proteinas-web/assets/78864967/ad7c747d-e8cb-4436-8f62-cd42d38f8314)
+
